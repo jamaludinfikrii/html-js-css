@@ -5,6 +5,7 @@ body{
 
 .solid{
     border-bottom: 0.5px #b4b4b4 solid;
+    background-color: red;
 }
 
 .navbar a{
